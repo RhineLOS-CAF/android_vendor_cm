@@ -120,17 +120,13 @@ PRODUCT_PACKAGES += \
 # Custom CM packages
 PRODUCT_PACKAGES += \
     AudioFX \
-    CMFileManager \
     CMSettingsProvider \
     CMUpdater \
-    CMWallpapers \
-    CyanogenSetupWizard \
+    LineageSetupWizard \
     Eleven \
     ExactCalculator \
     LiveLockScreenService \
     LockClock \
-    Screencast \
-    SoundRecorder \
     Trebuchet \
     WallpaperPicker \
     WeatherProvider
